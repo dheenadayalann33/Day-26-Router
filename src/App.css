@@ -1,0 +1,17 @@
+img{
+    height: 250px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.active{
+    text-decoration: none;
+    background-color: lightgreen;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid;
+    border-color: black;
+}
